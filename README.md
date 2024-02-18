@@ -1,4 +1,4 @@
-# pip_update: 用于一键更新pip安装包的工具
+# pip_update: 一键更新pip安装包
 
 ## 安装教程
 
