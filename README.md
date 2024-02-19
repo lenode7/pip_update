@@ -1,8 +1,14 @@
-# pip_update: 一键更新pip安装包
+# pip_update: 一键更新所有pip安装包
 
 ## 安装教程
 
-终端中切换到当前文件夹后执行如下命令:
+打开终端输入如下命令:
+
+```wget https://github.com/lenode7/pip_update/archive/refs/heads/main.zip```
+
+```unzip main.zip```
+
+```cd pip_update-main```
 
 ```pip install .```
 
@@ -10,8 +16,6 @@
 
 ## 使用说明
 
-- MacOS or Linux
-    ```python3 -m pip_update```
+- MacOS or Linux: `python3 -m pip_update`
 
-- Windows
-    ```python -m pip_update```
+- Windows: `python -m pip_update`
