@@ -2,11 +2,11 @@
 
 📖 **安装教程**
 
-打开终端并输入以下命令：
+打开终端并输入以下命令(相关命令可能需要预先安装)：
 
    ```bash
    wget https://github.com/lenode7/pip_update/archive/refs/heads/main.zip
-   unzip main.zip
+   unzip pip_update-main.zip
    cd pip_update-main
    pip install .
    ```
