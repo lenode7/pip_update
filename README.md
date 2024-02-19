@@ -16,11 +16,13 @@
 📚 **使用说明**
 
 - **MacOS or Linux**:
+
   ```bash
   python3 -m pip_update
   ```
 
 - **Windows**:
+
   ```bash
   python -m pip_update
   ```
